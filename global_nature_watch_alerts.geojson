@@ -1,0 +1,855 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.20721,
+                    -2.08015
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026000",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 0.91,
+                "sentinel1_sar_db": -11.675,
+                "cloud_cover_pct": 42.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.67954,
+                    -0.99044
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026001",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 95.65,
+                "sentinel1_sar_db": -12.747,
+                "cloud_cover_pct": 66.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.75572,
+                    -0.69447
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026002",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 100.55,
+                "sentinel1_sar_db": -10.755,
+                "cloud_cover_pct": 9.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.59511,
+                    0.24897
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026003",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.72,
+                "sentinel1_sar_db": -6.988,
+                "cloud_cover_pct": 21.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.92783,
+                    -0.12058
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026004",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 2.33,
+                "sentinel1_sar_db": -10.355,
+                "cloud_cover_pct": 28.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.10002,
+                    -1.55368
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026005",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 59.33,
+                "sentinel1_sar_db": -11.431,
+                "cloud_cover_pct": 2.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.41728,
+                    -1.27691
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026006",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 78.02,
+                "sentinel1_sar_db": -12.864,
+                "cloud_cover_pct": 9.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.57167,
+                    -2.67387
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026007",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 2.57,
+                "sentinel1_sar_db": -8.376,
+                "cloud_cover_pct": 35.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.29028,
+                    -0.88307
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026008",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 0.91,
+                "sentinel1_sar_db": -10.145,
+                "cloud_cover_pct": 4.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.50625,
+                    -1.34178
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026009",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 62.96,
+                "sentinel1_sar_db": -10.142,
+                "cloud_cover_pct": 19.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35225,
+                    -1.2443
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026010",
+                "predicted_driver": "Kebakaran Hutan / Banjir",
+                "area_ha": 21.92,
+                "sentinel1_sar_db": -16.293,
+                "cloud_cover_pct": 46.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.20759,
+                    -0.95818
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026011",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 4.06,
+                "sentinel1_sar_db": -14.783,
+                "cloud_cover_pct": 36.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.78321,
+                    -1.2162
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026012",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 65.98,
+                "sentinel1_sar_db": -10.516,
+                "cloud_cover_pct": 41.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.68862,
+                    0.00044
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026013",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 4.48,
+                "sentinel1_sar_db": -6.382,
+                "cloud_cover_pct": 47.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.35402,
+                    -0.22268
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026014",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 11.62,
+                "sentinel1_sar_db": -8.784,
+                "cloud_cover_pct": 66.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.14576,
+                    -1.51607
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026015",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.49,
+                "sentinel1_sar_db": -9.996,
+                "cloud_cover_pct": 22.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.73486,
+                    -0.36869
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026016",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 0.83,
+                "sentinel1_sar_db": -11.731,
+                "cloud_cover_pct": 0.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.08146,
+                    -1.80967
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026017",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 81.72,
+                "sentinel1_sar_db": -9.77,
+                "cloud_cover_pct": 63.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.70794,
+                    -0.9862
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026018",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 2.48,
+                "sentinel1_sar_db": -9.235,
+                "cloud_cover_pct": 80.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.14203,
+                    -0.00495
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026019",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 32.92,
+                "sentinel1_sar_db": -12.834,
+                "cloud_cover_pct": 42.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.42912,
+                    -2.59587
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026020",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 16.48,
+                "sentinel1_sar_db": -11.857,
+                "cloud_cover_pct": 68.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.84961,
+                    -1.77187
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026021",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 1.81,
+                "sentinel1_sar_db": -8.203,
+                "cloud_cover_pct": 65.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.18754,
+                    -1.74074
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026022",
+                "predicted_driver": "Kebakaran Hutan / Banjir",
+                "area_ha": 33.58,
+                "sentinel1_sar_db": -13.448,
+                "cloud_cover_pct": 48.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.81337,
+                    -2.61429
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026023",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 111.75,
+                "sentinel1_sar_db": -11.732,
+                "cloud_cover_pct": 5.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.70956,
+                    -2.36258
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026024",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 25.75,
+                "sentinel1_sar_db": -14.475,
+                "cloud_cover_pct": 38.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.97748,
+                    -1.58009
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026025",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 10.29,
+                "sentinel1_sar_db": -7.288,
+                "cloud_cover_pct": 43.9
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.46174,
+                    -1.25719
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026026",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 42.66,
+                "sentinel1_sar_db": -11.511,
+                "cloud_cover_pct": 6.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.57698,
+                    -0.36019
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026027",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 27.61,
+                "sentinel1_sar_db": -11.726,
+                "cloud_cover_pct": 39.8
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4832,
+                    -1.52599
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026028",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 10.66,
+                "sentinel1_sar_db": -7.539,
+                "cloud_cover_pct": 72.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.76785,
+                    -1.13486
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026029",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 8.02,
+                "sentinel1_sar_db": -13.325,
+                "cloud_cover_pct": 57.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.89014,
+                    -1.9457
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026030",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 4.24,
+                "sentinel1_sar_db": -8.369,
+                "cloud_cover_pct": 47.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.05651,
+                    -0.47266
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026031",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.24,
+                "sentinel1_sar_db": -8.853,
+                "cloud_cover_pct": 22.4
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.82601,
+                    -1.80619
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026032",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.85,
+                "sentinel1_sar_db": -10.385,
+                "cloud_cover_pct": 53.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.67515,
+                    -2.70371
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026033",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 2.16,
+                "sentinel1_sar_db": -7.973,
+                "cloud_cover_pct": 35.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.4583,
+                    -1.69908
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026034",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 4.24,
+                "sentinel1_sar_db": -10.066,
+                "cloud_cover_pct": 10.5
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.85378,
+                    -1.36199
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026035",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 48.19,
+                "sentinel1_sar_db": -12.905,
+                "cloud_cover_pct": 55.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.14771,
+                    -1.68105
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026036",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 32.56,
+                "sentinel1_sar_db": -13.234,
+                "cloud_cover_pct": 58.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.85621,
+                    -0.35047
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026037",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 115.62,
+                "sentinel1_sar_db": -11.479,
+                "cloud_cover_pct": 2.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.05175,
+                    -1.06741
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026038",
+                "predicted_driver": "Penebangan Selektif (Logging)",
+                "area_ha": 4.77,
+                "sentinel1_sar_db": -6.878,
+                "cloud_cover_pct": 27.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.20156,
+                    -0.7826
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026039",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 1.92,
+                "sentinel1_sar_db": -9.08,
+                "cloud_cover_pct": 52.6
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.87646,
+                    -2.0913
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026040",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 59.2,
+                "sentinel1_sar_db": -11.752,
+                "cloud_cover_pct": 30.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.16353,
+                    -2.30695
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026041",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 56.67,
+                "sentinel1_sar_db": -9.809,
+                "cloud_cover_pct": 56.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    116.87687,
+                    -0.96905
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026042",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 4.28,
+                "sentinel1_sar_db": -9.583,
+                "cloud_cover_pct": 40.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    113.22249,
+                    -0.4864
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026043",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 42.85,
+                "sentinel1_sar_db": -10.034,
+                "cloud_cover_pct": 55.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    117.03475,
+                    -0.71257
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026044",
+                "predicted_driver": "Pertanian Skala Besar",
+                "area_ha": 116.87,
+                "sentinel1_sar_db": -10.083,
+                "cloud_cover_pct": 1.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    112.40686,
+                    -1.71894
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026045",
+                "predicted_driver": "Pertambangan Emas/Mineral",
+                "area_ha": 57.3,
+                "sentinel1_sar_db": -17.764,
+                "cloud_cover_pct": 77.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.39612,
+                    -2.18629
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026046",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.65,
+                "sentinel1_sar_db": -10.689,
+                "cloud_cover_pct": 54.1
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    115.47381,
+                    -0.3639
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026047",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.84,
+                "sentinel1_sar_db": -7.58,
+                "cloud_cover_pct": 76.0
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    111.12847,
+                    0.24643
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026048",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 3.46,
+                "sentinel1_sar_db": -9.571,
+                "cloud_cover_pct": 31.7
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    114.61617,
+                    0.13943
+                ]
+            },
+            "properties": {
+                "alert_id": "GLAD-S1S2-2026049",
+                "predicted_driver": "Pertanian Skala Kecil",
+                "area_ha": 4.32,
+                "sentinel1_sar_db": -10.746,
+                "cloud_cover_pct": 72.1
+            }
+        }
+    ]
+}
